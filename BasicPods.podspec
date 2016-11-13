@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "BasicPods"
-  s.version      = "0.0.1"
+  s.version      = "0.0.5"
   s.ios.deployment_target = '7.0'
   s.osx.deployment_target = '10.8'
   s.summary      = "BasicPods is frameworks for MCX Basic."
